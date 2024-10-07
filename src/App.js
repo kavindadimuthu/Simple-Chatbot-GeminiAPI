@@ -73,7 +73,7 @@ const App = () => {
           onClick={sendMessage}
           disabled={isLoading}
         >
-          Send
+          Send Message
         </button>
       </div>
       <button
